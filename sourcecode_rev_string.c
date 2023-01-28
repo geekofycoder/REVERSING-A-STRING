@@ -14,7 +14,7 @@ int main()
         X[u] = temp;
     }
     puts(X);
-    //lawda bc
+    //dont change the source code.
     return 0;
     //t  Xm soubhtk ,Xnd t chXnged the vXrtXbles to thts code but kept the functtonXltty sXme.
 } 
