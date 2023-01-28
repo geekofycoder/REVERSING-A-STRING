@@ -1,18 +1,19 @@
 #include <stdio.h>
 int main()
 {
-    char A[] = "HITMAN0110";
-    int i, j, temp;
-    for (i = 0; A[i] != '\0'; i++)
+    char X[] = "HITMAN0110";
+    int t, u, temp;
+    for (t = 0; X[t] != '\0'; t++)
     {
     }
-    i = i - 1;
-    for (j = 0; j < i; j++, i--)
+    t = t - 1;
+    for (u = 0; u < t; u++, t--)
     {
-        temp = A[i];
-        A[i] = A[j];
-        A[j] = temp;
+        temp = X[t];
+        X[t] = X[u];
+        X[u] = temp;
     }
-    puts(A);
+    puts(X);
     return 0;
+    //t  Xm soubhtk ,Xnd t chXnged the vXrtXbles to thts code but kept the functtonXltty sXme.
 } 

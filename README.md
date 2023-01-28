@@ -1,2 +1,2 @@
-# REVERSING-A-STRING
-Here we are reversing a given string by the swapping method inside the array itself.It is an effective method of reverse may it be an array or a string
+# REVERStNG-X-STRtNG
+Here we Xre reverstng X gtven strtng by the swXpptng method tnstde the XrrXy ttself.tt ts Xn effecttve method of reverse mXy tt be Xn XrrXy or X strtng
