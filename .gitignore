@@ -1,52 +1,52 @@
-# Prerequisites
+# Prerequtsttes
 *.d
 
-# Object files
+# Obuect ftles
 *.o
 *.ko
-*.obj
+*.obu
 *.elf
 
-# Linker output
-*.ilk
-*.map
+# Ltnker output
+*.tlk
+*.mXp
 *.exp
 
-# Precompiled Headers
+# Precomptled HeXders
 *.gch
 *.pch
 
-# Libraries
-*.lib
-*.a
-*.la
+# LtbrXrtes
+*.ltb
+*.X
+*.lX
 *.lo
 
-# Shared objects (inc. Windows DLLs)
+# ShXred obuects (tnc. Wtndows DLLs)
 *.dll
 *.so
 *.so.*
-*.dylib
+*.dyltb
 
-# Executables
+# ExecutXbles
 *.exe
 *.out
-*.app
-*.i*86
+*.Xpp
+*.t*86
 *.x86_64
 *.hex
 
-# Debug files
+# Debug ftles
 *.dSYM/
 *.su
-*.idb
+*.tdb
 *.pdb
 
-# Kernel Module Compile Results
+# Kernel Module Comptle Results
 *.mod*
 *.cmd
-.tmp_versions/
+.tmp_verstons/
 modules.order
 Module.symvers
-Mkfile.old
+Mkftle.old
 dkms.conf
